@@ -1,6 +1,6 @@
 #!/bin/bash
 # Auto Script for Centos 6.xx
-# Made w/love by LeakTeam
+# Made w/love by Faky
 # version v.11
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
@@ -4185,7 +4185,7 @@ echo ''
 echo ''
 echo -e "$GREEN                        SUCCESS!
                                                    
-            DEVELOPER             : Gen@sky
+            DEVELOPER             : Faky
             SQUID PORT            : 8989
             SQUID PORT 2          : 8000
             OpenVPN PORT          : 443$RESET"
@@ -4200,7 +4200,7 @@ clear
 echo -e "$RED        TERMS AND CONDITION  $RESET"
 echo -e "$GREEN      Note:bawal po eleak ung setup  $RESET"
 echo -e "$GREEN      Kung anong vpn lng po ung pngawan nio dun na lang poh gamitin $RESET"
-echo -e "$GREEN      and to my team --LEAKTEAM-- $RESET"
+echo -e "$GREEN      Faky $RESET"
 echo ''
 echo ''
 echo ''
@@ -4233,14 +4233,14 @@ echo ''
 echo ''
 echo -e "$RED                                              SETUP DONE  $RESET"
 echo -e "$GREEN                                          Centos 6 Auto Script  $RESET"
-echo -e "$GREEN                                         BY:Genasky Pinlac of Leakteam  $RESET"
+echo -e "$GREEN                                         BY:Faky  $RESET"
 sleep 6s
 #!/bin/bash
 ################################################
 #-----------------------
 # Automation Script Ubuntu 16 64Bit.
-# Powered By: jhoe xii
-# Created By: jhoe xii
+# Powered By: Faky
+# Created By: Faky
 # Features: OpenVPN/Squid Proxy/Stunnel/Dropbear/Customized Port Setup
 #-----------------------
 ################################################
